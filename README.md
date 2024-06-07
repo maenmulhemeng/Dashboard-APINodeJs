@@ -10,6 +10,10 @@ This project is a nodejs API. It has `Jobs` end point and it provides the follow
 
 We assume when we launch the application it'd have 2 jobs in the array of jobs
 
+## Tha FrontEnd
+
+This project is linked to another [frontend project](https://github.com/maenmulhemeng/profitfill-dashboard-react)
+
 ## Run
 
 Please first intall the packages `npm run install` and then run the API `npm run start`
